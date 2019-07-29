@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Package Usage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Package_Usage_jar</output-path>
+    <root id="archive" name="Package Usage.jar">
+      <element id="module-output" name="Package Usage" />
+    </root>
+  </artifact>
+</component>
